@@ -35,4 +35,5 @@ allprojects {
 dependencies {
     // add dependencies
     compile project(':modules:axelor-base')
+    compile project(':modules:axelor-admin')
 }

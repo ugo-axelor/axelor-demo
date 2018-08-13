@@ -1,3 +1,4 @@
 rootProject.name = 'axelor-demo'
 
 include "modules:axelor-base"
+include "modules:axelor-admin"
