@@ -34,4 +34,5 @@ allprojects {
 
 dependencies {
     // add dependencies
+    compile project(':modules:axelor-base')
 }
